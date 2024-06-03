@@ -1,0 +1,71 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "mypikpak.com",
+        "mypikpak.me",
+        "mypikpak.net",
+        "pikpakdrive.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "access.mypikpak.com",
+        "access.mypikpak.net",
+        "access.pikpakdrive.com",
+        "api-drive.mypikpak.com",
+        "api-drive.mypikpak.net",
+        "api-drive.pikpakdrive.com",
+        "config.mypikpak.com",
+        "config.mypikpak.net",
+        "config.pikpakdrive.com",
+        "hub.dcdn.mypikpak.com",
+        "hub.dcdn.mypikpak.net",
+        "hub.dcdn.pikpakdrive.com",
+        "hub5p.mypikpak.com",
+        "hub5p.mypikpak.net",
+        "hub5p.pikpakdrive.com",
+        "hub5pn.mypikpak.com",
+        "hub5pn.mypikpak.net",
+        "hub5pn.pikpakdrive.com",
+        "hub5pnc.mypikpak.com",
+        "hub5pnc.mypikpak.net",
+        "hub5pnc.pikpakdrive.com",
+        "hub5pr.mypikpak.com",
+        "hub5pr.mypikpak.net",
+        "hub5pr.pikpakdrive.com",
+        "hubciddata.mypikpak.com",
+        "hubciddata.mypikpak.net",
+        "hubciddata.pikpakdrive.com",
+        "idx.shub.mypikpak.com",
+        "idx.shub.mypikpak.net",
+        "idx.shub.pikpakdrive.com",
+        "rcv5-gcm-sp.mypikpak.com",
+        "rcv5-gcm-sp.mypikpak.net",
+        "rcv5-gcm-sp.pikpakdrive.com",
+        "rcv5-sp.mypikpak.com",
+        "rcv5-sp.mypikpak.net",
+        "rcv5-sp.pikpakdrive.com",
+        "rp.shub.mypikpak.com",
+        "rp.shub.mypikpak.net",
+        "rp.shub.pikpakdrive.com",
+        "sg-thumbnail-drive.mypikpak.com",
+        "sg-thumbnail-drive.mypikpak.net",
+        "sg-thumbnail-drive.pikpakdrive.com",
+        "static.mypikpak.com",
+        "static.mypikpak.net",
+        "static.pikpakdrive.com",
+        "toapp.mypikpak.com",
+        "toapp.mypikpak.net",
+        "toapp.pikpakdrive.com",
+        "user.mypikpak.com",
+        "user.mypikpak.net",
+        "user.pikpakdrive.com",
+        "web-vod-xdrive.mypikpak.com",
+        "web-vod-xdrive.mypikpak.net",
+        "web-vod-xdrive.pikpakdrive.com"
+      ]
+    }
+  ],
+  "version": 1
+}

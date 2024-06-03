@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "71360.com",
+        "a0.app.xiaomi.com",
+        "ad7.com",
+        "api.installer.xiaomi.com",
+        "emar.com",
+        "gd.xinhuanet.com",
+        "gozendata.com",
+        "gz-data.com",
+        "gzads.com",
+        "miav-cse.avlyun.com",
+        "miui-fxcse.avlyun.com",
+        "onemob.mobi",
+        "reyun.com",
+        "tracking.miui.com",
+        "www.chance-ad.com",
+        "www.n1q.cn",
+        "www.nequal.cn",
+        "www.nequal.com",
+        "zhihuiyun.net.cn"
+      ]
+    }
+  ],
+  "version": 1
+}
