@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mypikpak.com",
+        "mypikpak.me",
+        "mypikpak.net",
+        "o4504926511693824.ingest.sentry.io",
+        "pikpakdrive.com"
+      ]
+    }
+  ],
+  "version": 1
+}
