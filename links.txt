@@ -22,3 +22,5 @@ https://raw.githubusercontent.com/dsunn/rule-set/master/clash/pikpak_domain.yaml
 https://raw.githubusercontent.com/dsunn/rule-set/master/clash/pikpak_cidr.yaml
 https://raw.githubusercontent.com/dsunn/rule-set/master/clash/pikpak_access.yaml
 https://raw.githubusercontent.com/dsunn/rule-set/master/clash/pikpak_dl.yaml
+https://raw.githubusercontent.com/dsunn/rule-set/master/clash/hijack_cidr.yaml
+https://raw.githubusercontent.com/dsunn/rule-set/master/clash/hijack_domain.yaml
