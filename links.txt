@@ -26,4 +26,4 @@ https://raw.githubusercontent.com/dsunn/rule-set/master/clash/hijack_cidr.yaml
 https://raw.githubusercontent.com/dsunn/rule-set/master/clash/hijack_domain.yaml
 https://raw.githubusercontent.com/dsunn/rule-set/master/clash/youtube_domain.yaml
 https://raw.githubusercontent.com/dsunn/rule-set/master/clash/youtube_cidr.yaml
-https://raw.githubusercontent.com/unknownFalleN/xiaomi-dns-blocklist/master/xiaomi_dns_block.lst
+https://raw.githubusercontent.com/dsunn/rule-set/master/clash/xiaomi_dns_block.yaml
