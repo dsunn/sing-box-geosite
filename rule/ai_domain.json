@@ -2,7 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "alkaidvision.com"
+        "alkaidvision.com",
+        "codeium.com",
+        "tensor.art",
+        "tensorartassets.com"
       ]
     }
   ],
