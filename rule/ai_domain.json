@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "alkaidvision.com",
+        "codeium.com",
+        "cursor.sh",
+        "tensor.art",
+        "tensorartassets.com"
+      ]
+    }
+  ],
+  "version": 1
+}
